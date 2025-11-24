@@ -2920,3 +2920,4 @@ IP-CIDR,185.169.252.225/32,no-resolve
 IP-CIDR,45.67.217.154/32,no-resolve
 IP-CIDR,77.237.245.181/32,no-resolve
 IP-CIDR,66.94.107.175/32,no-resolve
+IP-CIDR,157.173.0.0/16,no-resolve

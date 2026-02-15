@@ -105,3 +105,4 @@ IP-CIDR,213.136.0.0/16,no-resolve
 IP-CIDR,213.199.0.0/16,no-resolve
 IP-CIDR,216.173.0.0/16,no-resolve
 IP-CIDR,217.76.0.0/16,no-resolve
+IP-CIDR,166.88.0.0/16,no-resolve
